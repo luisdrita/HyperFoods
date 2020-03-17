@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>FoodReco</title>
+
+</head>
+
+<body style="min-width: 1690px; margin: auto; position: relative; overflow: hidden">
+
+<img src="img/ingredients.png" style="width:1000px; position: absolute; z-index: -1000; left: -500px; top: -500px">
+<img src="img/ingredients.png" style="width:1000px; position: absolute; z-index: -1000; right: -500px; bottom: -500px">
+
+<header style="text-align: center; margin: auto">
+
+  <!--  <p style="text-align: center; font-size: 75px;">FoodReco</p>  -->
+
+    <img src="./img/FoodReco2.png" style="z-index: 1000; margin-top: 50px; margin-bottom: 50px; max-height: 150px" alt="HyperFoods">
+
+</header>
+
+<div id = "div" style="margin: auto; text-align: center">
+
+    <input type = "url" id = "url" style="z-index: 1000; display: block; text-align: center; margin: auto; font-size: 20px; width: 1000px; border-radius: 20px" placeholder="https://example.com/image.png"/>
+
+    <button id = "run" style="z-index: 1000; display: block; text-align: center; width: 100px; height: 30px; margin: 50px auto auto;background-color: black; color: white; border-radius: 20px; cursor: pointer">Run</button>
+
+    <img id = "img" src="./img/hyperfoods_bw.png" style="z-index: 1000; border-radius: 20px; margin-top: 50px; max-height: 300px" alt="HyperFoods">
+
+    <div id = "div2" style="margin: auto; text-align: center">
+
+    </div>
+
+    <!-- <p id = "cuisine" style="position: absolute; font-size: 50px; bottom: 0; left: 45%; margin-bottom: 50px">Hi</p> -->
+
+</div>
+
+<div style="margin: 50px auto auto;width: 75px; ">
+
+<img id = "img2" src="./img/jupyter.png" style="width: 75px; cursor: pointer; display: none" onclick="window.open('https://warcraft12321.github.io/HyperFoods');">
+
+</div>
+
+<footer style="text-align: center; position: fixed; bottom: 0; width: 100%; background-color: black; color: white; height: 20px; margin: auto; padding-top: 25px"><img src="./img/jupyter.png" width="25px" style="display: inline-block; position: absolute; top: 25%; border-radius: 5px; vertical-align: text-bottom; cursor: pointer;" onclick="window.open('https://warcraft12321.github.io/HyperFoods');"></footer>
+
+</body>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+
+<script>
+
+    function stringToBinary(str, spaceSeparatedOctets) {
+
+        function zeroPad(num) {
+            return "00000000".slice(String(num).length) + num;
+        }
+
+        return str.replace(/[\s\S]/g, function(str) {
+            str = zeroPad(str.charCodeAt().toString(2));
+            return !1 === spaceSeparatedOctets ? str : str + " "
+        });
+    }
+
+// Action on clicking in the Run button.
+    d3.select('#run').on('click', function() {
+
+            let inter = document.getElementById("url").value;
+
+            fetch("run/" + stringToBinary(String(inter))).then(function (res) {
+                // Res will be a Response object.
+                // Use res.text() or res.json() to get the information that the Node program sent.
+                return res.text();
+
+            }).then(function (jsonData) {
+
+                const myNode = document.getElementById("div2");
+                myNode.style.marginTop = "25px";
+                myNode.style.height = "225px";
+                myNode.style.paddingTop = "0px";
+
+                while (myNode.firstChild) {
+                    myNode.removeChild(myNode.lastChild);
+                }
+
+                let hii = jsonData.replace(/[.\/#!'$%\^&\*;:\[{}=\-_`~()\]]/g,"").split(',');
+                let cuisine = hii[hii.length - 1];
+                hii.pop();
+
+                for (let i = 0; i < hii.length; i = i + 1) {
+
+                    let para = document.createElement("div");
+                    let image = document.createElement("img");
+
+                    para.style.display = "inline-block";
+                    para.style.marginRight = "20px";
+                    para.style.border = "solid";
+                    para.style.borderRadius = "10px";
+                    para.style.padding = "5px";
+                    para.id = "ingredient" + i;
+
+                    image.src = "./img/arrowtopdown.png";
+                    image.style.width = "10px";
+
+                    let node = document.createTextNode(hii[i]);
+                    para.appendChild(node);
+                    para.appendChild(image);
+
+                    let element = document.getElementById("div2");
+
+                    element.appendChild(para);
+
+                    if (i === hii.length - 1) {
+
+                        let para = document.createElement("div");
+
+                        para.style.display = "block";
+                        para.style.textAlign = "center";
+                        para.style.margin = "auto";
+                        para.style.border = "solid";
+                        para.style.borderRadius = "10px";
+                        para.style.padding = "5px";
+                        para.style.width = "200px";
+                        para.style.marginTop = "50px";
+                        para.style.backgroundColor = "green";
+                        para.style.color = "white";
+                        para.id = "cuisine";
+
+                        let node = document.createTextNode(cuisine);
+                        para.appendChild(node);
+
+                        let element = document.getElementById("div2");
+
+                        element.appendChild(para);
+
+                    }
+
+                    let unorderedList = document.createElement("div");
+                    unorderedList.id = "unorderedList";
+                    unorderedList.style.display = "none";
+                    unorderedList.style.position = "absolute";
+                    unorderedList.style.marginTop = "5px";
+                    unorderedList.style.textAlign = "left";
+
+                    d3.select('#' + "ingredient" + i).on('mouseover', function () {
+
+                        document.getElementById("ingredient" + i).style.cursor = "pointer";
+                        unorderedList.style.display = "block";
+
+                        fetch("ingredient/" + hii[i]).then(function (res) {
+
+                            return res.text();
+
+                            }).then(function (jsonData) {
+
+                            while (unorderedList.firstChild) {
+                                unorderedList.removeChild(unorderedList.lastChild);
+                            }
+
+                            let ingredient1 = document.createElement("p");
+                            let ingredient2 = document.createElement("p");
+                            let ingredient3 = document.createElement("p");
+                            // let ingredient4 = document.createElement("p");
+                            // let ingredient5 = document.createElement("p");
+
+                            unorderedList.appendChild(ingredient1);
+                            unorderedList.appendChild(ingredient2);
+                            unorderedList.appendChild(ingredient3);
+                            // unorderedList.appendChild(ingredient4);
+                            // unorderedList.appendChild(ingredient5);
+
+                            ingredient1.innerText = jsonData.split(",")[1];
+                            ingredient2.innerText = jsonData.split(",")[2];
+                            ingredient3.innerText = jsonData.split(",")[3];
+                            // ingredient4.innerText = jsonData.split(",")[4];
+                            // ingredient5.innerText = jsonData.split(",")[5];
+
+                            ingredient1.style.fontSize = "14px";
+                            ingredient2.style.fontSize = "14px";
+                            ingredient3.style.fontSize = "14px";
+                            // ingredient4.style.fontSize = "14px";
+                            // ingredient5.style.fontSize = "14px";
+
+                            para.appendChild(unorderedList);
+
+                        });
+                        //document.getElementById("cuisine").style.display = "none"
+                    });
+
+                    d3.select('#' + "ingredient" + i).on('mouseout', function () {
+
+                        fetch("ingredient/" + hii[i]).then(function (res) {
+
+                            return res.text();
+
+                            }).then(function (jsonData) {
+
+                            unorderedList.style.display = "none";
+
+                        });
+                        document.getElementById("cuisine").style.display = "block"
+                    })
+                }
+                document.getElementById("cuisine").innerText = cuisine;
+                console.log(cuisine);
+            });
+
+            document.getElementById("img").src = document.getElementById("url").value;
+    });
+
+</script>
+</html>

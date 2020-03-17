@@ -1,0 +1,201 @@
+Common Name,Scientific Name,Number of CBMs,CBM Names
+tea,Camellia sinensis,17,"1,2,4-Trihydroxybenzene; 6-Keto-28-homobrassinolide; Apigenin; Brassinolide; Epigallocatechin 3-gallate; Gallic acid; Gallocatechin 3-gallate; Lupeol; Phloroglucinol; Procyanidin B2; Procyanidin B3; Prodelphinidin B4; Quercetin; Theaflavin; Tricetin; ?-Terpineol; ent-Epigallocatechin 3-gallate; ent-Gallocatechin 3-gallate"
+carrot,Daucus carota,12,Aesculetin; Apigenin; Carvone; Diosgenin; Ferulic acid 4-glucoside; Lupeol; Myristicin; Psoralen; Quercetin; Xanthotoxin; ?-Terpineol; ?-Elemene
+grape,Vitis vinifera,12,Anthocyanidins; Betulinic acid; Epigallocatechin 3-gallate; Gallic acid; Gallocatechin 3-gallate; Lupeol; Procyanidin B1; Procyanidin B2; Procyanidin B3; Quercetin; ?-Terpineol; gamma-Tocotrienol
+dill,Anethum graveolens,12,(R)-Carvone; (S)-Carvone; Aesculetin; Apigenin; Apiole; Carvone; Myristicin; Quercetin; Umbelliprenin; Xanthotoxin; ?-Terpineol; ?-Elemene
+celery,Apium graveolens,12,"8-p-Menthene-1,2-diol; Angelicin; Apigenin; Apiole; Carvone; Myristicin; Psoralen; Quercetin; Verbenol; Xanthotoxin; ?-Terpineol; ?-Elemene"
+sweet bay,Laurus nobilis,11,(S)-?-Terpineol; Artecanin; Carvone; Cuminyl alcohol; Procyanidin B2; Quercetin; Reynosin; Ridentin B; Santamarin; ?-Terpineol; ?-Elemene
+caraway,Carum carvi,10,"(R)-Carvone; (S)-Carvone; 8-p-Menthene-1,2-diol; Carvone; Myristicin; Quercetin; Xanthotoxin; ?-Terpineol; ?-Elemene; gamma-Tocotrienol"
+orange,Citrus sinensis,10,Brassinolide; Carvone; Didymin; Luteolin 7-rhamnosylglucoside; Obacunone; Quercetagetin; Quercetin; Xylan; ?-Terpineol; ?-Elemene
+coriander,Coriandrum sativum,9,Angelicin; Apigenin; Carvone; Myristicin; Psoralen; Quercetin; Umbelliprenin; Xanthotoxin; ?-Terpineol
+guava,Psidium guajava,9,(15Z)-Lycopene; Corosolic acid; Gallic acid; Lupeol; Procyanidin B1; Procyanidin B2; Procyanidin B3; Quercetin; ?-Terpineol
+rosemary,Rosmarinus officinalis,9,Apigenin; Betulinic acid; Carnosic acid; Carvone; Lupeol; Verbenol; ?-Terpineol; ?-Elemene; gamma-Tocotrienol
+lovage,Levisticum officinale,8,(Z)-3-Butylidene-1(3H)-isobenzofuranone; Apiole; Carvone; Myristicin; Psoralen; Xanthotoxin; ?-Terpineol; ?-Elemene
+soy,Glycine max,8,6-Hydroxymethylpterin; Fisetin; Gallic acid; Genistein; Glyceollin I; Legumelin; Lupeol; Quercetin
+anise,Pimpinella anisum,8,(S)-Carvone; Apigenin; Carvone; Myristicin; Quercetin; Xanthotoxin; ?-Terpineol; ?-Elemene
+bean,Vicia faba,8,"3,4,7-Trihydroxyflavone; 4-Chloro-1H-indole-3-acetic acid; 7,4-Dihydroxyflavone; Brassinolide; Genistein; Procyanidin B1; Procyanidin B3; Prodelphinidin B4"
+cabbage,Brassica oleracea,8,1H-Indole-3-methanol; 4-Methoxyglucobrassicin; Brassinin; Carvone; Erucin; Indole-?-carboxylic acid; Quercetin; ?-Terpineol
+sage,Salvia officinalis,8,6-Oxocamphor; Apigenin; Carnosic acid; Epiursolic acid; Gallic acid; Lupeol; Manool; ?-Terpineol
+fennel,Foeniculum vulgare,8,Apiole; Carvone; Myristicin; Psoralen; Quercetin; Xanthotoxin; ?-Terpineol; gamma-Tocotrienol
+olive,Olea europaea,8,Acteoside; Aesculetin; Apigenin; Betulinic acid; Corosolic acid; Gallic acid; Hydroxytyrosol; Quercetin
+parsley,Petroselinum crispum,8,Apigenin; Apiole; Myristicin; Psoralen; Quercetin; Xanthotoxin; ?-Terpineol; ?-Elemene
+pomegranate,Punica granatum,8,Apigenin; Betulinic acid; Epiestradiol; Epigallocatechin 3-gallate; Gallic acid; Procyanidin B1; Procyanidin B2; Quercetin
+basil,Ocimum basilicum,8,Aesculetin; Apigenin; Betulinic acid; Carvone; Quercetin; ?-Santalene; ?-Terpineol; ?-Elemene
+cloves,Syzygium aromaticum,7,Carvone; Gallic acid; Hydroxytyrosol; Palustrol; Procyanidin; Quercetin; ?-Terpineol
+oregano,Origanum vulgare,7,Apigenin; Carvone; Gallic acid; Quercetin; Tetramethylquercetin; ?-Terpineol; ?-Elemene
+blueberry,Vaccinium corymbosum,7,Aesculetin; Ferulic acid 4-glucoside; Gallic acid; Myristicin; Phloroglucinol; Quercetin; ?-Terpineol
+lemon,Citrus limon,7,Carvone; Luteolin 7-rhamnosylglucoside; Obacunone; Quercetin; Umbelliprenin; ?-Terpineol; ?-Elemene
+cranberry,Vaccinium macrocarpon,6,Caffeic acid 3-glucoside; Myricetin 3-digalactoside; Procyanidin B2; Quercetin; ?-Terpineol; gamma-Tocotrienol
+apple,Malus domestica,6,Apigenin; Gallic acid; Procyanidin B1; Procyanidin B2; Progesterone; Quercetin
+bilberry,Vaccinium myrtillus,6,Gallic acid; Procyanidin B1; Procyanidin B2; Procyanidin B3; Quercetin; ?-Terpineol
+corn,Zea mays,6,Gallic acid; Genistein; Quercetin; Xanthotoxin; ?-Terpineol; gamma-Tocotrienol
+fenugreek,Trigonella foenum-graecum,6,"3,4,7-Trihydroxyflavone; 7,4-Dihydroxyflavone; Apigenin; Diosgenin; Genistein; Quercetin"
+fig,Ficus carica,6,Angelicin; Lupeol; Psoralen; Quercetin; Xanthotoxin; ?-Terpineol
+ginkgo,Ginkgo biloba,6,Apigenin; Ginkgetin; Kaempferol 3-rhamnoside; Procyanidin; Quercetin; Tricetin
+pepper,Piper nigrum,6,Carvone; Myristicin; Quercetin; ?-Santalene; ?-Terpineol; ?-Elemene
+potato,Solanum tuberosum,6,2-Propanethiol; Eicosan-1-ol; Gallic acid; Progesterone; Quercetin; ?-Elemene
+spearmint,Mentha spicata,6,(R)-Carvone; Apigenin; Carvone; Verbenol; ?-Terpineol; ?-Elemene
+sunflower,Helianthus annuus,6,Brassinolide; Cuminyl alcohol; Dioxindole-3-acetic acid; Lupeol; Quercetin; ?-Terpineol
+tarragon,Artemisia dracunculus,6,Aesculetin; Apigenin; Carvone; Gallic acid; Phloroglucinol; Quercetin
+elderberry,Sambucus nigra,5,Betulinic acid; Eicosan-1-ol; Lupeol; Quercetin; ?-Terpineol
+chicory,Cichorium intybus,5,Aesculetin; Apigenin; Betulinic acid; Lupeol; Quercetin
+hazelnut,Corylus avellana,5,Kaempferol 3-rhamnoside; Procyanidin B1; Procyanidin B3; Quercetin; Xylan
+pea,Pisum sativum,5,4-Chloro-1H-indole-3-acetic acid; Genistein; Indole-?-carboxylic acid; Lupeol; Progesterone
+thyme,Thymus vulgaris,5,Apigenin; Carvone; Cuminyl alcohol; Gallic acid; ?-Terpineol
+tomato,Lycopersicon esculentum,5,Ferulic acid 4-glucoside; Lupeol; Progesterone; Prolycopene; Quercetin
+orange,Citrus reticulata,5,Carvone; Obacunone; Tetramethylquercetin; ?-Terpineol; ?-Elemene
+clementine,Citrus reticulata,5,Carvone; Obacunone; Tetramethylquercetin; ?-Terpineol; ?-Elemene
+tangerine,Citrus reticulata,5,Carvone; Obacunone; Tetramethylquercetin; ?-Terpineol; ?-Elemene
+parsnip,Pastinaca sativa,5,Angelicin; Myristicin; Psoralen; Quercetin; Xanthotoxin
+peanut,Arachis hypogaea,5,Aesculetin; Dihydroxystearic acid; Procyanidin B2; Procyanidin B3; Quercetin
+garlic,Allium sativum,5,Ajoene; Apigenin; Di-2-propenyl sulfide; Phloroglucinol; Quercetin
+allspice,Pimenta dioica,4,Gallic acid; ?-Santalene; ?-Terpineol; ?-Elemene
+barley,Hordeum vulgare,4,Aesculetin; Indole-?-carboxylic acid; Procyanidin B3; gamma-Tocotrienol
+cinnamon,Cinnamomum verum,4,Procyanidin B1; Procyanidin B2; ?-Terpineol; ?-Elemene
+cocoa,Theobroma cacao,4,Aesculetin; Procyanidin B1; Procyanidin B2; Quercetin
+bean,Phaseolus vulgaris,4,Aesculetin; Apigenin; Brassinolide; Genistein
+buckwheat,Fagopyrum esculentum,4,Brassinolide; Dodecadienoic acid; Procyanidin B2; Quercetin
+walnut,Juglans regia,4,Betulinic acid; Gallic acid; Plumbagin; Quercetin
+dandelion,Taraxacum officinale,4,Aesculetin; Dodecadienoic acid; Luteolin 7-rhamnosylglucoside; Quercetin
+onion,Allium cepa,4,Di-2-propenyl sulfide; Phloroglucinol; Progesterone; Quercetin
+ginger,Zingiber officinale,4,Quercetin; [8]-Shogaol; ?-Terpineol; ?-Elemene
+pepper,Capsicum frutescens,4,Carvone; Dihydrocapsaicin; Quercetin; ?-Terpineol
+peppermint,Mentha x,4,(R)-Carvone; Carvone; Cuminyl alcohol; ?-Terpineol
+pea,Cajanus cajan,4,Cajanin; Cajanol; Genistein; Lupeol
+sour cherry,Prunus cerasus,4,Apigenin; Gallic acid; Genistein; Quercetin
+cherry,Prunus cerasus,4,Apigenin; Gallic acid; Genistein; Quercetin
+anise,Illicium verum,4,Carvone; ?-Santalene; ?-Terpineol; ?-Elemene
+turmeric,Curcuma longa,4,Cuminyl alcohol; Demethoxycurcumin; Quercetin; ?-Terpineol
+alfalfa,Medicago sativa,3,"3,4,7-Trihydroxyflavone; 7,4-Dihydroxyflavone; Genistein"
+apricot,Prunus armeniaca,3,Epiestradiol; Quercetin; ?-Terpineol
+avocado,Persea americana,3,Hentriacosane; Procyanidin C; Quercetin
+walnut,Juglans nigra,3,Gallic acid; Plumbagin; Quercetin
+blackcurrant,Ribes nigrum,3,Prodelphinidin B4; Quercetin; ?-Terpineol
+capers,Capparis spinosa,3,4-Methoxyglucobrassicin; Quercetin; Rutinose
+cardamom,Elettaria cardamomum,3,(S)-?-Terpinyl acetate; Carvone; ?-Terpineol
+carob,Ceratonia siliqua,3,Gallic acid; Phloroglucinol; Quercetin
+cinnamon,Cinnamomum aromaticum,3,Procyanidin B1; Procyanidin B2; ?-Terpineol
+persimmon,Diospyros virginiana,3,Betulinic acid; Lupeol; Quercetin
+cornmint,Mentha arvensis,3,(R)-Carvone; (S)-Carvone; Carvone
+cucumber,Cucumis sativus,3,Cucurbitacin I; Indole-?-carboxylic acid; Lupeol
+date,Phoenix dactylifera,3,Apigenin; Lupeol; Quercetin
+primrose,Oenothera biennis,3,Gallic acid; Lupeol; Quercetin
+flaxseed,Linum usitatissimum,3,"Apigenin; Eicosan-1-ol; Secoisolariciresinol 9,9-diglucoside"
+rhubarb,Rheum rhabarbarum,3,Emodin; Gallic acid; Isorhapontigenin
+camomile,Matricaria recutita,3,Apigenin; Luteolin 7-rhamnosylglucoside; Quercetin
+pepper,Capsicum annuum,3,Dihydrocapsaicin; Lupeol; ?-Terpineol
+horseradish,Armoracia rusticana,3,Aesculetin; Di-2-propenyl sulfide; Quercetin
+hyssop,Hyssopus officinalis,3,Verbenol; ?-Terpineol; ?-Elemene
+persimmon,Diospyros kaki,3,Betulinic acid; Lupeol; Plumbagin
+linden,Tilia sp.,3,Kaempferol 3-rhamnoside; Quercetin; ?-Terpineol
+loquat,Eriobotrya japonica,3,Corosolic acid; Procyanidin B2; Quercetin
+mango,Mangifera indica,3,Gallic acid; Mangiferol; Quercetin
+bean,Vigna radiata,3,Genistein; Progesterone; Quercetin
+nutmeg,Myristica fragrans,3,Myristicin; Quercetin; ?-Terpineol
+mint,Mentha aquatica,3,Apigenin; Carvone; ?-Elemene
+peach,Prunus persica,3,Anthocyanidins; Kaempferol 3-rhamnoside; Quercetin
+marjoram,Origanum onites,3,Carvone; Cuminyl alcohol; ?-Terpineol
+radish,Raphanus sativus,3,Brassinolide; Di-2-propenyl sulfide; Gibberellin A116
+rice,Oryza sativa,3,Progesterone; Quercetin; gamma-Tocotrienol
+buckthorn,Hippophae rhamnoides,3,Gallic acid; Gallocatechin 3-gallate; Quercetin
+star fruit,Averrhoa carambola,3,Epigallocatechin 3-gallate; Procyanidin B1; Procyanidin B2
+savory,Satureja montana,3,Apigenin; Carvone; ?-Terpineol
+cumin,Cuminum cyminum,2,?-Terpineol; ?-Elemene
+adzuki,Phaseolus angularis,2,Genistein; Progesterone
+coffee,Coffea arabica,2,Cafestol; Xylan
+asparagus,Asparagus officinalis,2,Diosgenin; Quercetin
+gourd,Momordica charantia,2,Acteoside; Diosgenin
+burdock,Arctium lappa,2,Lupeol; ?-Elemene
+cabbage,Brassica rapa,2,4-Methoxyglucobrassicin; Brassinin
+coconut,Cocos nucifera,2,?-Terpineol; gamma-Tocotrienol
+beet,? vulgaris,2,Indole-?-carboxylic acid; Quercetin
+verbena,Verbena officinalis,2,Lupeol; Verbenalin
+wheat,Triticum aestivum,2,Apigenin; Quercetin
+eggplant,Solanum melongena,2,Solamargine; Solasonine
+chestnut,Castanea sativa,2,Gallic acid; Quercetin
+gram,Vigna mungo,2,Diethylstilbesterol; Genistein
+hyacinth,Lablab purpureus,2,Brassinolide; Genistein
+plum,Syzygium cumini,2,Betulinic acid; Gallic acid
+lemon balm,Melissa officinalis,2,?-Terpineol; ?-Elemene
+lemon grass,Cymbopogon citratus,2,Quercetin; ?-Terpineol
+lentils,Lens culinaris,2,4-Chloro-1H-indole-3-acetic acid; Genistein
+lime,Citrus aurantiifolia,2,?-Terpineol; ?-Elemene
+lingonberry,Vaccinium vitis-idaea,2,Procyanidin B1; Procyanidin B3
+malus,Malus spp.,2,Procyanidin B1; Procyanidin B2
+mentha,Mentha spp.,2,(S)-?-Terpineol; ?-Elemene
+mugwort,Artemisia vulgaris,2,Aesculetin; ?-Terpineol
+oat,Avena sativa,2,Quercetin; gamma-Tocotrienol
+pineapple,Ananas comosus,2,Ergosterol peroxide; ?-Terpineol
+red raspberry,Rubus idaeus,2,Gallic acid; Quercetin
+rocket salad,Eruca sativa,2,Carvone; Cuminyl alcohol
+rubus,Rubus spp.,2,Procyanidin B1; Procyanidin B3
+blackberry,Rubus spp.,2,Procyanidin B1; Procyanidin B3
+raspberry,Rubus spp.,2,Procyanidin B1; Procyanidin B3
+sesame,Sesamum indicum,2,Acteoside; Sesamolin
+sorrel,Rumex acetosa,2,Emodin; Quercetin
+spinach,Spinacia oleracea,2,Crustecdysone; Quercetin
+swede,Brassica napus,2,4-Methoxyglucobrassicin; Brassinolide
+marjoram,Origanum majorana,2,Carvone; ?-Terpineol
+tamarind,Tamarindus indica,2,?-Terpineol; ?-Elemene
+lupine,Lupinus albus,2,Genistein; Lupeol
+leek,Allium ampeloprasum,2,Aesculetin; Di-2-propenyl sulfide
+abiyuch,Crateva religiosa,1,Betulinic acid
+almond,Prunus dulcis,1,Quercetin
+angelica,Angelica keiskei,1,Xanthotoxin
+arrowroot,Maranta arundinacea,1,Quercetin
+black eyed pea,Vigna unguiculata,1,Genistein
+borage,Borago officinalis,1,Quercetin
+breadfruit,Artocarpus altilis,1,Quercetin
+cashew,Anacardium occidentale,1,Gallic acid
+cherimoya,Annona cherimola,1,Liriodenine
+chickpea,Cicer arietinum,1,Genistein
+mustard,Brassica juncea,1,4-Methoxyglucobrassicin
+chives,Allium schoenoprasum,1,Quercetin
+coffee,Coffea spp.,1,Cafestol
+cottonseed,Gossypium sp,1,Quercetin
+custard apple,Annona reticulata,1,Liriodenine
+dock,Rumex spp.,1,Emodin
+endive,Cichorium endivia,1,Quercetin
+plum,Prunus domestica,1,Quercetin
+plantain,Musa x,1,Quercetin
+cress,Lepidium sativum,1,Di-2-propenyl sulfide
+butterbur,Petasites japonicus,1,?-Santalene
+grass pea,Lathyrus sativus,1,4-Chloro-1H-indole-3-acetic acid
+horseradish,Moringa oleifera,1,Quercetin
+jackfruit,Artocarpus heterophyllus,1,Betulinic acid
+chestnut,Castanea crenata,1,Brassinolide
+kiwi,Actinidia chinensis,1,Quercetin
+lambsquarters,Chenopodium album,1,Xanthotoxin
+lettuce,Lactuca sativa,1,Quercetin
+lichee,Litchi chinensis,1,gamma-Tocotrienol
+lima,Phaseolus lunatus,1,Genistein
+malabar spinach,Basella alba,1,Quercetin
+mulberry,Morus sp.,1,Moracin P
+muskmelon,Cucumis melo,1,Lupeol
+nance,Byrsonima crassifolia,1,Betulinic acid
+okra,Abelmoschus esculentus,1,Quercetin
+poppy,Papaver somniferum,1,Aesculetin
+passion fruit,Passiflora edulis,1,Prolycopene
+pear,Pyrus communis,1,Quercetin
+persimmon,Diospyros spp.,1,Plumbagin
+prunus,Prunus spp,1,Genistein
+cherry,Prunus spp,1,Genistein
+plum,Prunus spp,1,Genistein
+roman camomile,Chamaemelum nobile,1,Apigenin
+rose,Rosa spp,1,Quercetin
+roselle,Hibiscus sabdariffa,1,?-Terpineol
+rye,Secale cereale,1,gamma-Tocotrienol
+lotus,Nelumbo nucifera,1,Quercetin
+saffron,Crocus sativus,1,Quercetin
+sapodilla,Manilkara zapota,1,Gallic acid
+scarlet bean,Phaseolus coccineus,1,Genistein
+shea,Vitellaria paradoxa,1,Lupeol
+soursop,Annona muricata,1,Procyanidin
+strawberry,Psidium cattleianum,1,Quercetin
+summer savory,Satureja hortensis,1,?-Terpineol
+sweet cherry,Prunus avium,1,Genistein
+sweet potato,Ipomoea batatas,1,Quercetin
+turnip,Brassica campestris,1,Brassinolide
+wakame,Undaria pinnatifida,1,Indole-?-carboxylic acid
+winged bean,Psophocarpus tetragonolobus,1,Betulinic acid
+yam,Dioscorea sp.,1,Diosgenin
