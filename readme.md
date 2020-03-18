@@ -1,7 +1,5 @@
-# MRes Biomedical Research
+# Machine Learning for Building a Food Recommendation System
 [warcraft12321.github.io/HyperFoods](https://warcraft12321.github.io/HyperFoods)
-
-## Machine Learning for Building a Food Recommendation System
 
 ### Introduction
 
@@ -28,6 +26,8 @@ suggest new combinations and retrieve the cuisine the recipe belongs, along with
 negative interactions with antineoplastic drugs (github.com/warcraft12321/HyperFoods).
 
 <img id = "img" src="./website/img/site.png" alt="HyperFoods">
+
+Web App (run locally, web app exceeds Heroku memory limits): [https://hyperfoods.herokuapp.com/](https://hyperfoods.herokuapp.com/)
 
 ### Supervisors
 [Kirill Veselkov](https://www.imperial.ac.uk/people/kirill.veselkov04) (Imperial College London) | [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) (Imperial College London)
