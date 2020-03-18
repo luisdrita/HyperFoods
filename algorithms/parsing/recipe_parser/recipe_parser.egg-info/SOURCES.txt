@@ -1,8 +1,3 @@
-README.md
-setup.py
-recipe_parser/__init__.py
-recipe_parser/ingredient_quantities.py
-recipe_parser.egg-info/PKG-INFO
-recipe_parser.egg-info/SOURCES.txt
-recipe_parser.egg-info/dependency_links.txt
-recipe_parser.egg-info/top_level.txt
+version https://git-lfs.github.com/spec/v1
+oid sha256:7642d51147fc928a8f3b7aa2bde697c5c1bbdc7d82d1c491a37d2fec298fe202
+size 231
