@@ -27,11 +27,12 @@ negative interactions with antineoplastic drugs (github.com/warcraft12321/HyperF
 
 <img id = "img" src="./website/img/site.png" alt="HyperFoods">
 
-Web App (run locally, web app exceeds Heroku memory limits): [https://hyperfoods.herokuapp.com/](https://hyperfoods.herokuapp.com/)
+Figure 1 - Web App (run locally, web app exceeds Heroku memory limits): [https://hyperfoods.herokuapp.com/](https://hyperfoods.herokuapp.com/).
 
 ### Supervisors
 [Kirill Veselkov](https://www.imperial.ac.uk/people/kirill.veselkov04) (Imperial College London) | [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) (Imperial College London)
 
 Roadmap -> [Wiki](https://github.com/warcraft12321/HyperFoods/wiki)
 
-[![DOI](https://zenodo.org/badge/217769774.svg)](https://zenodo.org/badge/latestdoi/217769774)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3715471.svg)](https://doi.org/10.5281/zenodo.3715471)
+
