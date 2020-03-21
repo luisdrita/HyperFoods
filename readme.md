@@ -1,5 +1,5 @@
 # Machine Learning for Building a Food Recommendation System
-[warcraft12321.github.io/HyperFoods](https://warcraft12321.github.io/HyperFoods)
+[Jupyter Notebook](https://warcraft12321.github.io/HyperFoods) | [Report](https://github.com/warcraft12321/HyperFoods/blob/master/thesis/report.pdf) | [Poster](https://github.com/warcraft12321/HyperFoods/blob/master/thesis/poster.pdf)
 
 ### Introduction
 
@@ -34,5 +34,4 @@ Figure 1 - Web App (run locally, web app exceeds Heroku memory limits): [https:/
 
 Roadmap -> [Wiki](https://github.com/warcraft12321/HyperFoods/wiki)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3715471.svg)](https://doi.org/10.5281/zenodo.3715471)
-
+[![DOI](https://zenodo.org/badge/245535944.svg)](https://zenodo.org/badge/latestdoi/245535944)
