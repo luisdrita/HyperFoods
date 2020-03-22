@@ -6,7 +6,7 @@ const {PythonShell} = require('python-shell');
 const pluralize = require('pluralize');
 
 const app = express();
-let ingredient_top5SimilarIngredients = JSON.parse(fs.readFileSync('ingredient_top5SimilarIngredients.json', 'utf-8'));
+let ingredient_top5SimilarIngredients = JSON.parse(fs.readFileSync('./data/recipe1M+/ingredient_top5SimilarIngredients.json', 'utf-8'));
 
 app.use(express.static('website'));
 app.listen(process.env.PORT || 3000);
